@@ -7,6 +7,6 @@ User can mark couple of frequently used words as "Favorites" and show only selec
 User can move back and forth between selected words and delete one of them by simply clicking the icon on top.
 Implemented using Java/Swing.
 
-![Main UI](https://i.imgur.com/Yxq1zyi.png)
-![Main UI - 2](https://imgur.com/Yxq1zyi)
-![Favorite Words](https://imgur.com/efbSFta)
+![Main UI - 1](https://i.imgur.com/ZLYRSyG.png)
+![Main UI - 2](https://i.imgur.com/Yxq1zyi.png)
+![Favorite Words](https://i.imgur.com/efbSFta)
