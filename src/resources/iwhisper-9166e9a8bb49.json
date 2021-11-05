@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "iwhisper",
+  "private_key_id": "9166e9a8bb49b3c5e9fd3a2436677275bc6d5b19",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCqmEUvDjn6YFrw\nuH8sUoO+Ga1H/BZCGUpiK9RmyRR/za64L95kWcn+4q5p5X8DByhxdNKzneqXMo1S\nKQnD/CH9WobzJ/Hj9ePESj35o2GSL2PQrogwlxxy8X/b0x/+9pDai71zciZ7SZSz\n8bMd/gsWwLtIDmHjyu9IstZCCJDNoGompK9IdQ28fGTRyjEahOy2j3YzMjiL+REB\nvG9IPcpSi4liDfrhleaAqw9mLtJSfHP6s4QHp5UUshVu2bzLZHYYkirR+DUTijgJ\njnb6Ey5w0oumGHp9tl5PRU6bnAW5xcA8X+J84a0SJXeJMP+1ysM7GAn3UTDJqoqN\nkad3tB/fAgMBAAECggEAF61arNVEpsOI27A/tl8ded0Gd989F596+3Up3bo65iIe\nBeJe836i0oWTv47iugDcVCLqu5NHZATYKHcZq+HqtcdCw6zfncwa+Lt1LpjGiguZ\nxvTyYgwXHrz2CgSbhD+kizCp8sP9I09rHC6Htbn0wAuv8qhMXdlkrKplonSd5GwN\nSqpWPRse05mw9/1B0clKaQAKD2n8Atsc/CzToLX6TX8cAHDoAnPkPnRN1D3vwcVn\nBpsdP0851asRE9FWvZ+hTpLq+OlyqGAlVWdrTOPSD1uCfU7oxQQAZdjiHVZagxAE\nyOO/srDI3OOVu5HvlUXOLZDdtlFU57cK93hGyXS0wQKBgQDUwSKMw5qAjA5uc32a\nQZSlaKx8ocaAx5acC3Za1C+w+7WgfRYKDCEmawujpGSxIgZDYyMenSu7KOk3YIHY\nIgo/aWEP0ShsMJl5cENkeYfi58SGHBc3OmeBxQLHMXsV4OwNGV1GcdPsktvAnsD0\nlThdsN24ZEFZy4ExMcnlMjSkawKBgQDNRVJgc7QqKE82fWucDYl9gHoxMkq/vIdi\n+D/H+GZ/6V78ftXuCZT76M07VWJyQMCxfg+5jihJdaqBxjngMApQZwYOvLDWkc5c\nRocrJdTzL4MMuJKKhrhOanokn0B2cwJ09/2jvgmZYssarsf9akVMAK+IFa2U/kaL\nKM3jGF5vXQKBgElnFReByQV+zN/YosYcyD9FXPVnD0iRE+pkngH6YTXrsh9b6MWw\np6NMnWhpKIBgn86SHqTKTzM0izoa5tF99REpt14wqISjQ+A9FlNNBtAHbKtkd7IL\nSXjhUvMMpE3JG0ftr1vFm/tsM7tCSopYDWltwyGCHXXwm3MwnVqhNr5fAoGBAKJR\n3wJGfIGZvonoQ9/zFHYZ0oZ0rodQHf81L7qBwwwDDwm7go/pI9bQEPqKWn7elYHF\nncmtkE4Grf5RMhMF6iIKVc/xhiUmx3hQjTKhh/OF7qtwiPDh93yK1mt/Qwpnh9nX\nAMsqy4xvgwxmid7q2kFviV6jRdA8AqyoZ6bc7lBBAoGAOS9EPfxutXuthw1FIRUg\nbC69sJgKCmFgibs/7EGv/NsKw0x5MX6T84wnVoP977U/Ll84+YwgyTBQW4aLGWGk\niSlR/rWth9yueQB908VJzVIun9ns0q1yMfwL4vpSN6/gP/T29Vj13jDYhI7Pa1f+\ntRhimY18aJ4ybsJ1Vof0XaM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "iwhisper@iwhisper.iam.gserviceaccount.com",
+  "client_id": "117469308784333968160",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/iwhisper%40iwhisper.iam.gserviceaccount.com"
+}
