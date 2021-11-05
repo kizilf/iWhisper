@@ -8,5 +8,3 @@ iWhisper is a tool that aims to help people who are struggling to speak. The mai
 * Implemented using Java/Swing.
 
 ![Main UI - 1](https://i.imgur.com/ZLYRSyG.png)
-![Main UI - 2](https://i.imgur.com/Yxq1zyi.png)
-![Favorite Words](https://i.imgur.com/efbSFta.png)
